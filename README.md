@@ -74,5 +74,5 @@ reviews (
 
 ## 📬 連絡先
 
-- GitHub：[github.com/hoonseung1234](https://github.com/hoonseung1234)
+- GitHub：[github.com/hooonseung](https://github.com/hooonseung)
 - Email：hooonseung@gmail.com
